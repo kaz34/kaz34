@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ググるチート
+site: stackoverflow.com
+
 <!--
 **kaz34/kaz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
