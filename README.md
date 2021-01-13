@@ -2,6 +2,7 @@
 
 ググるチート
 site: stackoverflow.com
+site: qiita.com
 
 <!--
 **kaz34/kaz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
