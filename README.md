@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+-->
+-->
+高度検索
+https://github.com/search/advanced
+
+
+
 今週
 https://github.com/kaz34/kaz34.github.io/edit/main/_posts/weekly-update/2021-01-17-hello.md
 
