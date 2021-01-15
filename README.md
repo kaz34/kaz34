@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+今週
+https://github.com/kaz34/kaz34.github.io/edit/main/_posts/weekly-update/2021-01-17-hello.md
+
+<br>
+
 railsチートシート追加
 https://github.com/kaz34/kaz34.github.io/blob/main/_posts/cheatsheet/Rails/2020-12-28-rails-cheat-sheat01.md
 
