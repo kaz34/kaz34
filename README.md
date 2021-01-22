@@ -48,3 +48,8 @@ https://github.com/kaz34/kaz34.github.io/blob/main/_posts/cheatsheet/Docker/2021
 
 RSpecのチートシート追加
 https://github.com/kaz34/kaz34.github.io/blob/main/_posts/cheatsheet/RSpec/2021-01-12-rspec-cheat-sheet.md
+
+<br>
+
+MySQLのチートシート
+https://github.com/kaz34/kaz34.github.io/blob/main/_posts/cheatsheet/db/2021-01-17-mysql-cheatsheet.md
